@@ -16,6 +16,7 @@
 		5407F6F0290988ED005F9BFE /* TransactionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5407F6EF290988ED005F9BFE /* TransactionRow.swift */; };
 		5407F6F22909895E005F9BFE /* PreviewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5407F6F12909895E005F9BFE /* PreviewData.swift */; };
 		5407F6F5290990C8005F9BFE /* SwiftUIFontIcon in Frameworks */ = {isa = PBXBuildFile; productRef = 5407F6F4290990C8005F9BFE /* SwiftUIFontIcon */; };
+		5407F6F7290991F6005F9BFE /* TransactionListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5407F6F6290991F6005F9BFE /* TransactionListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		5407F6ED2909869E005F9BFE /* TransactionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModel.swift; sourceTree = "<group>"; };
 		5407F6EF290988ED005F9BFE /* TransactionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionRow.swift; sourceTree = "<group>"; };
 		5407F6F12909895E005F9BFE /* PreviewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewData.swift; sourceTree = "<group>"; };
+		5407F6F6290991F6005F9BFE /* TransactionListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				5407F6DD29098460005F9BFE /* ExpensesTrackerApp.swift */,
 				5407F6DF29098460005F9BFE /* ContentView.swift */,
 				5407F6EF290988ED005F9BFE /* TransactionRow.swift */,
+				5407F6F6290991F6005F9BFE /* TransactionListViewModel.swift */,
 				5407F6ED2909869E005F9BFE /* TransactionModel.swift */,
 				5407F6EB2909865A005F9BFE /* Extensions.swift */,
 				5407F6E129098462005F9BFE /* Assets.xcassets */,
@@ -162,6 +165,7 @@
 				5407F6F22909895E005F9BFE /* PreviewData.swift in Sources */,
 				5407F6E029098460005F9BFE /* ContentView.swift in Sources */,
 				5407F6EC2909865A005F9BFE /* Extensions.swift in Sources */,
+				5407F6F7290991F6005F9BFE /* TransactionListViewModel.swift in Sources */,
 				5407F6DE29098460005F9BFE /* ExpensesTrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
