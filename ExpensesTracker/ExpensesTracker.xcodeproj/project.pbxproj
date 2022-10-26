@@ -13,6 +13,7 @@
 		5407F6E529098462005F9BFE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5407F6E429098462005F9BFE /* Preview Assets.xcassets */; };
 		5407F6EC2909865A005F9BFE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5407F6EB2909865A005F9BFE /* Extensions.swift */; };
 		5407F6EE2909869E005F9BFE /* TransactionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5407F6ED2909869E005F9BFE /* TransactionModel.swift */; };
+		5407F6F0290988ED005F9BFE /* TransactionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5407F6EF290988ED005F9BFE /* TransactionRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		5407F6E429098462005F9BFE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5407F6EB2909865A005F9BFE /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		5407F6ED2909869E005F9BFE /* TransactionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModel.swift; sourceTree = "<group>"; };
+		5407F6EF290988ED005F9BFE /* TransactionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				5407F6DD29098460005F9BFE /* ExpensesTrackerApp.swift */,
 				5407F6DF29098460005F9BFE /* ContentView.swift */,
+				5407F6EF290988ED005F9BFE /* TransactionRow.swift */,
 				5407F6ED2909869E005F9BFE /* TransactionModel.swift */,
 				5407F6EB2909865A005F9BFE /* Extensions.swift */,
 				5407F6E129098462005F9BFE /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5407F6F0290988ED005F9BFE /* TransactionRow.swift in Sources */,
 				5407F6EE2909869E005F9BFE /* TransactionModel.swift in Sources */,
 				5407F6E029098460005F9BFE /* ContentView.swift in Sources */,
 				5407F6EC2909865A005F9BFE /* Extensions.swift in Sources */,
